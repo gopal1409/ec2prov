@@ -34,7 +34,7 @@
          key_name: linux4
          group: ansible
          instance_type: t2.micro
-         image: ami-0a0ad6b70e61be944
+         image: ami-03d64741867e7bb94
          region: us-east-2
          wait: true
          exact_count: 1
